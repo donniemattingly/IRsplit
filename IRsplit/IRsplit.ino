@@ -10,6 +10,7 @@
  * If the button is pressed, send the IR code.
  * If an IR code is received, record it.
  *
+ * IRremote
  * Version 0.11 September, 2009
  * Copyright 2009 Ken Shirriff
  * http://arcfn.com
